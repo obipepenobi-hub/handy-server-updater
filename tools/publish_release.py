@@ -36,7 +36,7 @@ from pathlib import Path
 REPO = "obipepenobi-hub/handy-server-updater"
 APP_NAME = "Handy-server"
 APK_ASSET = "Handy-server.apk"        # Dateiname im Release; der In-App-Updater lädt diese Datei
-PACKAGE = "com.liamkkm.handyserver"  # VORSCHLAG: vor dem ersten Release auf die echte applicationId setzen, danach nie ändern
+PACKAGE = "com.serveruebersicht.server"  # echte applicationId der App – nie ändern
 SIGNER_SHA256 = "845a55a793ec58e4ca1308ed5aeb6302ab94e114a10356110702dbcf01a70cf3"
 STORE_APK_NAME = "handy-server-{version}.apk"  # Dateiname in liams-appstore/incoming-apks/
 # ----------------------------------------------------------------------------------------------
